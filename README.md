@@ -27,10 +27,11 @@ But this is where Appium comes in. From Appium's own website:
 9. You'll need an IDE. We suggest downloading and installing **Spring Tools 4**. [Explain me how](https://spring.io/tools)
 10. Configure **Maven** for Eclipse  [Explain me how](https://www.softwaretestinghelp.com/eclipse/configuring-maven-with-eclipse/)
 
-## Technologies:
+## Sample:
 
-* [Java](https://docs.oracle.com/en/java/)
-* [Appium](https://www.javadoc.io/doc/io.appium/java-client/latest/index.html)
-* [Selenium](https://www.selenium.dev/documentation/en/)
-* [TestNG](https://testng.org/#_testng_documentation)
-* [Maven](https://maven.apache.org/)
+![image](https://github.com/tanvirseraj/General-Store/assets/85784149/31004e6b-5f74-4dee-a13e-0b05cd229f00)
+
+
+
+
+
