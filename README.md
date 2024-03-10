@@ -16,7 +16,7 @@ But this is where Appium comes in. From Appium's own website:
 
 # Prerequisites
 
-1. Download and install **Java**  [Explain me how, JDK21](https://www.oracle.com/java/technologies/downloads/)
+1. Download and install **Java**  [Explain me how](https://www.oracle.com/java/technologies/downloads/)
 2. Configure Java environment variables  [Explain me how](https://stackoverflow.com/questions/1672281/how-to-set-the-environment-variables-for-java-in-windows)
 3. Download and install **Android Studio**  [Explain me how](https://developer.android.com/studio)
 4. Configure Android environment variables  [Explain me how](http://www.automationtestinghub.com/setup-android-environment-variables/)
