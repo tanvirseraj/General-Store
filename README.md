@@ -14,6 +14,19 @@ But this is where Appium comes in. From Appium's own website:
 * iOS
 * Android
 
+# Prerequisites
+
+1. Download and install **Java**  [Explain me how, JDK8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox)
+2. Configure Java environment variables  [Explain me how](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
+3. Download and install **Android Studio**  [Explain me how](https://developer.android.com/studio)
+4. Configure Android environment variables  [Explain me how](http://www.automationtestinghub.com/setup-android-environment-variables/)
+5. Configure Anroid emulator and name it **Demo**[Explain me how](https://developer.android.com/studio/run/managing-avds)
+6. Download and install **Node.js**  [Explain me how](https://nodejs.org/en/download/)
+7. Configure npm environment variables [Explain me how](https://stackoverflow.com/questions/27864040/fixing-npm-path-in-windows-8-and-10)
+8. Download and install **Appium** [Explain me how](http://www.automationtestinghub.com/download-and-install-appium-1-6/)
+9. You'll need an IDE. We suggest downloading and installing **Spring Tools 4**. [Explain me how](https://spring.io/tools)
+10. Configure **Maven** for Eclipse  [Explain me how](https://www.softwaretestinghelp.com/eclipse/configuring-maven-with-eclipse/)
+
 ## Technologies:
 
 * [Java](https://docs.oracle.com/en/java/)
