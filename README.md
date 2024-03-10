@@ -16,8 +16,8 @@ But this is where Appium comes in. From Appium's own website:
 
 # Prerequisites
 
-1. Download and install **Java**  [Explain me how, JDK8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox)
-2. Configure Java environment variables  [Explain me how](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
+1. Download and install **Java**  [Explain me how, JDK21](https://www.oracle.com/java/technologies/downloads/)
+2. Configure Java environment variables  [Explain me how](https://stackoverflow.com/questions/1672281/how-to-set-the-environment-variables-for-java-in-windows)
 3. Download and install **Android Studio**  [Explain me how](https://developer.android.com/studio)
 4. Configure Android environment variables  [Explain me how](http://www.automationtestinghub.com/setup-android-environment-variables/)
 5. Configure Anroid emulator and name it **Demo**[Explain me how](https://developer.android.com/studio/run/managing-avds)
