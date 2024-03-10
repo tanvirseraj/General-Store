@@ -19,5 +19,5 @@ But this is where Appium comes in. From Appium's own website:
 * [Java](https://docs.oracle.com/en/java/)
 * [Appium](https://www.javadoc.io/doc/io.appium/java-client/latest/index.html)
 * [Selenium](https://www.selenium.dev/documentation/en/)
-* [TestNG](https://testng.org/doc/documentation-main.html)
+* [TestNG](https://testng.org/#_testng_documentation)
 * [Maven](https://maven.apache.org/)
