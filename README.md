@@ -31,7 +31,8 @@ But this is where Appium comes in. From Appium's own website:
 
 ![image](https://github.com/tanvirseraj/General-Store/assets/85784149/31004e6b-5f74-4dee-a13e-0b05cd229f00)
 ![Screenshot_1](https://github.com/tanvirseraj/General-Store/assets/85784149/bf56cd13-e631-4f73-8e00-6cba4c120886)
-![Screenshot_2](https://github.com/tanvirseraj/General-Store/assets/85784149/5a7cb566-0d15-4584-adff-fa9c4a6b30ca)
+![Screenshot_3](https://github.com/tanvirseraj/General-Store/assets/85784149/d3549247-3a4a-4a0a-85b9-c3fd6e3e01de)
+
 
 
 
